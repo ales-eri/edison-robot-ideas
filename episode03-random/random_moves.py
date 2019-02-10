@@ -4,7 +4,7 @@
 #               I use internal methods, because they are faster than public methods and I avoid linking public method source.
 #               public method example -  Ed.DriveLeftMotor(Ed.FORWARD, speed, Ed.DISTANCE_UNLIMITED)
 #               internal method example - Ed.WriteModuleRegister8Bit(Ed.MODULE_LEFT_MOTOR, Ed.REG_MOTOR_CONTROL_8, 64 | speed)
-#               If you some questions, ask in comments in video: https://www.youtube.com/watch?v=LJejM69_9aY
+#               If you have some questions, ask me in comments of the video: https://www.youtube.com/watch?v=LJejM69_9aY
 #
 
 

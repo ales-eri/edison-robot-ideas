@@ -5,7 +5,7 @@
 #               You should use robot with good gears and full batteries
 #               You must move robot to the right place after every part and press round button.
 #               You must attach pen/brush to the back of robot for flower and to the front for rest of the picture.
-#               If you some questions, ask in comments in video: https://www.youtube.com/watch?v=-j4arUWRhj8
+#               If you have some questions, ask me in comments of the video: https://www.youtube.com/watch?v=-j4arUWRhj8
 #
 
 import Ed

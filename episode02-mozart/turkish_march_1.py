@@ -3,7 +3,7 @@
 # Notes:        You can listen result here: https://www.youtube.com/watch?v=1Cfpv6s_xrY
 #               This is the first voice only. I wrote three programs (one for every voice),
 #               but I had to modify it for every my robot, because they run program in different speed. I do not know why.
-#               If you some questions, ask in comments in video: https://www.youtube.com/watch?v=1Cfpv6s_xrY
+#               If you have some questions, ask me in comments of the video: https://www.youtube.com/watch?v=1Cfpv6s_xrY
 #
 
 import Ed

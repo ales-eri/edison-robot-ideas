@@ -4,7 +4,7 @@
 #               You need paper or white table 100 x 40 cm
 #               You must move robot to the right place after every line and press round button.
 #               You should use robot with good gears and full batteries
-#               If you some questions, ask in comments in video: https://www.youtube.com/watch?v=-j4arUWRhj8
+#               If you have some questions, ask me in comments of the video: https://www.youtube.com/watch?v=-j4arUWRhj8
 #
 
 import Ed
