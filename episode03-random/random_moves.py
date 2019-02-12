@@ -1,6 +1,7 @@
 #
 # Description:  Robot Edison moves quickly in random directions, then he slows down, stops and waits to next clap
 # Notes:        You can see result here: https://www.youtube.com/watch?v=LJejM69_9aY
+#               You can upload program to Edison robot by online EdPy environment http://edpyapp.com/#
 #               I use internal methods, because they are faster than public methods and I avoid linking public method source.
 #               public method example -  Ed.DriveLeftMotor(Ed.FORWARD, speed, Ed.DISTANCE_UNLIMITED)
 #               internal method example - Ed.WriteModuleRegister8Bit(Ed.MODULE_LEFT_MOTOR, Ed.REG_MOTOR_CONTROL_8, 64 | speed)

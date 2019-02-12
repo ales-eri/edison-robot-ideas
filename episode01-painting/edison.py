@@ -1,6 +1,7 @@
 #
 # Description:  Edison robot writes "Edison".
 # Notes:        You can see result here: https://www.youtube.com/watch?v=-j4arUWRhj8
+#               You can upload program to Edison robot by online EdPy environment http://edpyapp.com/#
 #               You need paper or white table 100 x 40 cm
 #               You must move robot to the right place after every line and press round button.
 #               You should use robot with good gears and full batteries

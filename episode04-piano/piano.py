@@ -1,7 +1,9 @@
 #
 # Description:  Robot Edison is used as a musical instrument. He plays tones by shades on paper.
 # Notes:        You can see result here: https://www.youtube.com/watch?v=iucFzno07uA
+#               You can upload program to Edison robot by online EdPy environment http://edpyapp.com/#
 #               Here is PDF for printing: https://github.com/ales-eri/edison-robot-ideas/raw/master/episode04-piano/piano_for_edison_robot.pdf
+#               If you have some questions, ask me in comments of the video: https://www.youtube.com/watch?v=iucFzno07uA
 #
 
 import Ed

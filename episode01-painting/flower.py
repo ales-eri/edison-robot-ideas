@@ -1,6 +1,7 @@
 #
 # Description:  Edison robot draws/paints flower, grass and sun.
 # Notes:        You can see result here: https://www.youtube.com/watch?v=-j4arUWRhj8
+#               You can upload program to Edison robot by online EdPy environment http://edpyapp.com/#
 #               You need paper A3 size.
 #               You should use robot with good gears and full batteries
 #               You must move robot to the right place after every part and press round button.

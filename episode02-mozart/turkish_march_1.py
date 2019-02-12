@@ -1,6 +1,7 @@
 #
 # Description:  Edison robot plays "Turkish March" by Wolfgang Amadeus Mozart.
 # Notes:        You can listen result here: https://www.youtube.com/watch?v=1Cfpv6s_xrY
+#               You can upload program to Edison robot by online EdPy environment http://edpyapp.com/#
 #               This is the first voice only. I wrote three programs (one for every voice),
 #               but I had to modify it for every my robot, because they run program in different speed. I do not know why.
 #               If you have some questions, ask me in comments of the video: https://www.youtube.com/watch?v=1Cfpv6s_xrY
